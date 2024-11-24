@@ -11,7 +11,7 @@ Algoritmo notaMediaDeseada
 	Escribir "Introduzca la nota del 1º examen"
 	Leer notaPrimerExamen;
 	
-	Escribir "Introduzca Nota media deseada"
+	Escribir "Introduzca Nota media deseada, por favor"
 	Leer notaDeseada 
 	
 	notaSegundoExamen = (notaDeseada - (notaPrimerExamen * 0.4)) / 0.6
