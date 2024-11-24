@@ -20,4 +20,8 @@ En este caso los programas que tenemos son:
 
 **1ºDAW**
 
-## Fase: Final
+## Fases:
+- Instalar y configurar Git
+- Crear cuenta GitHub y clonar con Git
+- Crear archivos y sincronizar
+- Ignorar archivos
